@@ -7,6 +7,7 @@ Technology
 ---------
 
 * Use python 3.4 or above( better use virtual env)
+* Django 2.0.13
 
 Creating env
 ------------
