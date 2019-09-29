@@ -18,5 +18,5 @@ Creating env
 How to run project
 -----------------
 
-* python manage.py runserver <port>
-* Try to access localhost:<port>
+* python manage.py runserver %port%
+* Try to access localhost:%port%
